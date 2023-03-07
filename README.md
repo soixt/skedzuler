@@ -9,7 +9,7 @@ This application is made in Laravel and VueJS.
 
 2. Setup the application
 
-- git clone https://github.com/sasaorasanin/scheduler.git
+- git clone https://github.com/soixt/skedzuler.git
 - rename .env.example to .env
 - composer install
 - npm install
@@ -39,7 +39,7 @@ This application is made in Laravel and VueJS.
 
 5. Setup the application
 
-- git clone https://github.com/sasaorasanin/scheduler.git public
+- git clone https://github.com/soixt/skedzuler.git public
 - rename .env.example to .env
 - composer install
 - npm install
